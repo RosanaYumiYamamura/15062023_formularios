@@ -1,0 +1,13 @@
+body {
+    zoom: 1.5
+    }
+    
+    form {
+    display: flex;
+    flex-direction: column;
+    
+    }
+    
+    form input {
+    margin-bottom: 1rem;
+    }  
